@@ -1,0 +1,15 @@
+[package]
+name = "evaluation"
+version = "0.1.0"
+edition = "2021"
+authors = ["atcoder8"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "3.2.16", features = ["derive"] }
+indicatif = "0.17.0"
+itertools = "0.10.3"
+rayon = "1.5.3"
+serde = { version = "1.0.143", features = ["derive"] }
+toml = "0.5.9"

@@ -1,0 +1,8 @@
+seeds_file = "./tools/100_seeds.txt"
+input_folder = "./tools/100_in"
+output_folder = "../evaluation/100_out"
+vis_folder = "../evaluation/100_vis"
+
+[executable_files]
+submission = "./target/release/submission"
+vis = "./target/release/vis"

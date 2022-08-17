@@ -1,0 +1,8 @@
+seeds_file = "../tools/2000_seeds.txt"
+input_folder = "../tools/2000_in"
+output_folder = "./2000_out"
+vis_folder = "./2000_vis"
+
+[executable_files]
+submission = "../target/release/submission"
+vis = "../target/release/vis"
