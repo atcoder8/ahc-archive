@@ -1,0 +1,12 @@
+[paths]
+seeds_file = "/home/cycle/ahc/015/tools/100_seeds.txt"
+input_folder = "/home/cycle/ahc/015/tools/in"
+output_folder = "/home/cycle/ahc/015/evaluation/100_out"
+vis_folder = "/home/cycle/ahc/015/evaluation/100_vis"
+
+[paths.executable_files]
+submission = "/home/cycle/ahc/015/target/release/submission"
+vis = "/home/cycle/ahc/015/target/release/vis"
+
+[thread]
+thread_num = 8
