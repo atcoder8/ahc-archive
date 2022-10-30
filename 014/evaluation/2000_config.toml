@@ -1,0 +1,8 @@
+seeds_file = "/home/cycle/ahc/014/tools/2000_seeds.txt"
+input_folder = "/home/cycle/ahc/014/tools/2000_in"
+output_folder = "/home/cycle/ahc/014/evaluation/2000_out"
+vis_folder = "/home/cycle/ahc/014/evaluation/2000_vis"
+
+[executable_files]
+submission = "/home/cycle/ahc/014/target/release/submission"
+vis = "/home/cycle/ahc/014/target/release/vis"
