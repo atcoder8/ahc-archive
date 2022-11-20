@@ -1,0 +1,11 @@
+[paths]
+seeds_file = "/home/cycle/ahc/016/tools/seeds_2000.txt"
+input_dir = "/home/cycle/ahc/016/tools/in_2000"
+output_dir = "/home/cycle/ahc/016/evaluation/out_2000"
+
+[paths.executable_files]
+submission = "/home/cycle/ahc/016/target/release/submission"
+tester = "/home/cycle/ahc/016/target/release/tester"
+
+[thread]
+thread_num = 16

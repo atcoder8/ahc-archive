@@ -3,7 +3,12 @@ Cargo.lock
 .venv/
 in/
 out/
+best_out/
 vis/
 *_in/
 *_out/
 *_vis/
+in_*/
+out_*/
+best_out_*/
+result_*.csv
